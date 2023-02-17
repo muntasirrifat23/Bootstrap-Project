@@ -1,0 +1,18 @@
+#basic-addon1{
+    background-color: #B68C5A;
+}
+.c-icon{
+    color: #B68C5A;
+}
+.b-icon{
+    background-color: #B68C5A;
+}
+.b-image{
+    background-image: url('banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    background-size: 75% 100%;
+}
